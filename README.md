@@ -8,13 +8,13 @@ Projet fictif réalisé en groupe de 5 pendant 6 semaines
 
 ## Langages / Outils
 
-Méthode Scrum / Agile
-Git
-PhpStorm
-Architecture MVC
-Composer, POO, Twig
-PHP7
-HTML5, CSS3, Bootstrap4
+- Méthode Scrum / Agile
+- Git
+- PhpStorm
+- Architecture MVC
+- Composer, POO, Twig
+- PHP7
+- HTML5, CSS3, Bootstrap4
 
 
 
@@ -22,4 +22,4 @@ HTML5, CSS3, Bootstrap4
 
 
 
-03/07/2018 @wildcodeschool.fr
+### 03/07/2018 @wildcodeschool.fr
