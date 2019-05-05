@@ -1,6 +1,7 @@
 # Oh Terroir
 
-## Refonte du site du restaurant Oh Terrroir à Orléans - Réalisation pendant la formation à la Wild Code School
+## Refonte du site du restaurant Oh Terrroir à Orléans 
+Réalisation pendant la formation à la Wild Code School
 
 Projet fictif réalisé en groupe de 5 pendant 6 semaines
 
