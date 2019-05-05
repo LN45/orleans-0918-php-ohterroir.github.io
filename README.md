@@ -22,4 +22,4 @@ Projet fictif réalisé en groupe de 5 pendant 6 semaines
 
 
 
-### 03/07/2018 @wildcodeschool.fr
+### formation de septembre 2018 à janvier 2019 @wildcodeschool.fr
