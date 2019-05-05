@@ -21,3 +21,6 @@ Projet fictif réalisé en groupe de 5 pendant 6 semaines
 
 
 <img class="d-block w-100" src="https://i.goopics.net/Gxobd.png" alt="First slide">
+<img class="d-block w-100" src="https://i.goopics.net/Xj0lq.png" alt="Second slide">
+<img class="d-block w-100" src="https://i.goopics.net/wa4K9.png" alt="Third slide">
+<img class="d-block w-100" src="https://i.goopics.net/30eYj.png" alt="Four slide">
